@@ -1,0 +1,38 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+out/
+.idea/
+*.iml
+input.txt
+output.txt
+/src/com/algorithm/KadanesLargestSumSubArray.java
+/src/com/algorithm/Main.java
+/src/com/algorithm/MergedOverLapingIntervals.java
+/src/com/algorithm/MergeTwoSortedArray.java
+/src/com/algorithm/MergeTwoSortedArrayLowestTime.java
+/src/com/algorithm/NextGreatestPermutaion.java
+/src/com/algorithm/StringMul.java
+/src/com/algorithm/StringMultiplication.java
