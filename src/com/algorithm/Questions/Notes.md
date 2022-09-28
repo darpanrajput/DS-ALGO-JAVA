@@ -44,3 +44,5 @@ public class FindDuplicatesInArray {
 }
 
 ```
+
+[CODE](FindDuplicate/FindDuplicatesInArray.java)
