@@ -4,6 +4,7 @@ import java.io.*;
 import java.lang.*;
 import java.text.*;
 import java.time.*;
+import java.util.stream.IntStream;
 
 public class Test {
 
@@ -17,9 +18,8 @@ import java.time.*;
 
 * */
 public static void main(String[] args) {
-    String s[]=new String[]{"0125","0125","0245"};
-    int num= Integer.parseInt(s[0].toCharArray()[0]=='0'?s[0].substring(0):s[0]);
-    System.out.println(num);
+    Random r = new Random();
+    System.out.println( r.nextInt(1) + 1);
 }
 
 }

@@ -1,4 +1,4 @@
-package com.algorithm.PatternPritting;
+package com.algorithm.PatternPrinting;
 
 public class Triangle {
     public static void main(String[] args) {

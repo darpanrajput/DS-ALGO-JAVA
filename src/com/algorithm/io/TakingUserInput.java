@@ -7,13 +7,13 @@ import java.util.Scanner;
 public class TakingUserInput {
     public static void main(String[] args) {
         Scanner br = new Scanner(new BufferedInputStream(System.in));
-        System.out.println("enter number of test cases ");
+        System.out.println("Enter number of test cases ");
         int t = br.nextInt();
         while (t-->0) {
-            System.out.println("enter the array size for test case: "+t);
+            System.out.println("Enter the array size for test case: "+t);
             int n = br.nextInt();
             int[] arr = new int[n];
-            System.out.println("enter the Element(separated by space) for size=" + n);
+            System.out.println("Enter the Element(separated by space) for size=" + n);
             String enterKey = br.nextLine();//simply consumes enter key
 
             String lines = br.nextLine();
