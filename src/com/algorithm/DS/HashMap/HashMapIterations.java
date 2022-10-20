@@ -1,4 +1,4 @@
-package com.algorithm.DS;
+package com.algorithm.DS.HashMap;
 
 import java.util.HashMap;
 import java.util.Iterator;

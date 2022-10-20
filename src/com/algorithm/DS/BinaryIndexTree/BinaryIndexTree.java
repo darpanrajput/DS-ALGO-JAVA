@@ -1,4 +1,4 @@
-package com.algorithm.DS;
+package com.algorithm.DS.BinaryIndexTree;
 
 import java.util.Arrays;
 
